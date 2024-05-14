@@ -9,7 +9,7 @@ Welcome to my Payments App! This is a simple web application where users can sig
 
 ## Technologies Used
 
-- **Frontend:** HTML, CSS, JavaScript
+- **Frontend:** React.js, TailwindCSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Authentication:** JSON Web Tokens (JWT)
